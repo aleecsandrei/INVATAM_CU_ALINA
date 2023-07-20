@@ -1,0 +1,44 @@
+.culoare1 {
+  height: 100px;
+  width: 150px;
+  background-color: blueviolet;
+}
+.culoare2 {
+  height: 100px;
+  width: 150px;
+  background-color: #000000;
+}
+.culoare3 {
+  height: 100px;
+  width: 150px;
+  background-color: rgb(87, 40, 40);
+}
+.culoare4 {
+  height: 100px;
+  width: 150px;
+  background-color: rgba(100, 25, 22, 0.4);
+}
+.gradient {
+  height: 100px;
+  width: 150px;
+  background: linear-gradient(60deg, red, pink, magenta, blueviolet);
+}
+.patrat {
+  width: 150px;
+  height: 150px;
+  background-color: rgb(17, 141, 141);
+  margin: 60px 30px 10px 60px;
+  border: 2px solid rgb(125, 3, 195);
+  border-left: 2px solid black;
+  border-radius: 100px;
+  border-bottom-right-radius: 20px;
+}
+.triunghi {
+  width: 0;
+  height: 0;
+  border-left: 100px solid transparent;
+  border-right: 100px solid transparent;
+  border-bottom: 200px solid red;
+}
+.trapez {
+}

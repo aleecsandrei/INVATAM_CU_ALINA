@@ -1,0 +1,15 @@
+.lista-neordonata {
+  list-style-type: square;
+}
+.lista-ordonata {
+  list-style-type: georgian;
+}
+.square {
+  list-style-type: square;
+}
+.abc {
+  list-style-type: lower-greek;
+}
+.roman {
+  list-style-type: lower-roman;
+}
